@@ -6,7 +6,7 @@ This project uses machine learning techniques to predict the quality of wine bas
 ## 📌 Project Overview
 
 - **Goal:** Predict wine quality based on physicochemical features using machine learning.
-- **Dataset:** [Wine Quality Data Set (UCI Repository)](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+- **Dataset:** [Wine Quality Data Set (UCI Repository)](https://github.com/Safalswayam/Wine_Quality_Perediction/blob/c61fe1829c8713aabddc2fc729d5607dcd5e28a5/WineQT.csv)
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ## 📊 Features Used
