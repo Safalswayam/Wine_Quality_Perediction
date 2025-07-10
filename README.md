@@ -1,4 +1,4 @@
-#🍷 Wine Quality Prediction
+🍷 Wine Quality Prediction
 This project uses machine learning techniques to predict the quality of wine based on physicochemical features such as acidity, sugar, pH, and alcohol content. The model is trained on the Wine Quality dataset and evaluates the quality on a scale from 0 to 10.
 
 📌 Project Overview
